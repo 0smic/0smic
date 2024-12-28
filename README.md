@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### Language Used
+<div align="center">
+    <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=0smic&layout=compact&theme=radical&hide_border=true" alt="Language Used">
+</div>
+
 <!--
 **0smic/0smic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
